@@ -1,7 +1,8 @@
 
 ### Hi there 👋, my name is Samuel
 #### Web Designer & Developer
-![I am web designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![I am web designer](https://media.licdn.com/dms/image/D4E16AQEC5GVbKB9DmQ/profile-displaybackgroundimage-shrink_350_1400/0/1697664654682?e=1707955200&v=beta&t=DekkT4H5Z70LxblHaVM9mXs4cZTAEIjRZ_2URSOvEws)
 
 I graduated in Computer Engineering from university of Gondar institution of Technology , and my journey in web development and IT support specialist began during my first internship @ ministry of science  innovation &technology. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer.
 - 🔭 I’m currently working on  as  a Full-Stack developer. . 
