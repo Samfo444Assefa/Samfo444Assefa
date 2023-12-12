@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 
 ### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"/> About Me <hr/>
 <ul>
-  <li>A passionate Self-taught Full-stack web developer</li>
+<li>A passionate Self-taught Full-stack web developer</li>
+<li>I have deep passion for phootograh</li>  
+<li>Currently learning  data Analayis and project managemant(@Google)</li>
+<li>Personal website <a herf=""></a></li>
+<li>I’m currently open for a new job opportunity, this is</li>
 </ul>
 <hr/>
 
-### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"/> About Me <hr/>
+### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px" width="30px"/> Skill<hr/>
 <ul>
   <li>Languages:</li><br>
   <img src="https://camo.githubusercontent.com/63cb78ba0a47da0d0421c562f40da948aa9fcb6dba58350d70a805521c1a74cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532302d2532333233373045442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"/>
@@ -40,3 +44,7 @@ Here are some ideas to get you started:
   <img src="https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"/>
   <img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b"/>
 </ul>
+
+
+### <img src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30px"/>Github Status<hr/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samfo444Assefa&show_icons=true)
