@@ -1,4 +1,14 @@
-### Hi, I'm Samuel Assefa 👋 
+
+### Hi there 👋, my name is Samuel
+#### Web Designer & Developer
+![I am web designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I graduated in Computer Engineering from university of Gondar institution of Technology , and my journey in web development and IT support specialist began during my first internship @ ministry of science  innovation &technology. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer.
+- 🔭 I’m currently working on  as  a Full-Stack developer. . 
+
+
+
+
 
 <!--
 **Samfo444Assefa/Samfo444Assefa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,4 +57,5 @@ Here are some ideas to get you started:
 
 
 ### <img src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30px"/>Github Status<hr/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samfo444Assefa&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samfo444Assefa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
